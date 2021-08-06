@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pradnyakhadayate
-- 👀 I’m interested in SQL, Python, Excel and Power BI
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in data analytics
+- I'm skilled in Excel, SQL , Python  and Power BI
+- 🌱 I’m currently learning tableau 
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me pradnyakhadayate@gmail.com
 
